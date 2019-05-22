@@ -1,7 +1,7 @@
 clear ; close all; 
 % THIS PROGRAM MODELS THE PROFIT OBTAINED AT DIFFERENT CITIES WITH RESPECT
 % TO THEIR POPULATION SIZE. THIS ProgramMainFile CALLS THE ComputeCost()
-% AND GradientDescent() FUNCTIONS. 
+% AND GradientDescent() FUNCTIONS.. 
 
 % Load data
 data = load('data.txt');
